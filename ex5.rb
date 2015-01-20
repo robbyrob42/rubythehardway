@@ -1,17 +1,17 @@
-my_name = "Rob Jacques"
-my_age = 36
-my_height = 74
-my_weight = 225
-my_eyes = "brown"
-my_teeth = "white"
-my_hair = "brown"
+name = "Rob Jacques"
+age = 36
+height = 74
+weight = 225
+eyes = "brown"
+teeth = "white"
+hair = "brown"
 
-puts "Let's talk about #{my_name}"
-puts "He's #{my_height} inches tall"
-puts "He's #{my_weight} pounds"
+puts "Let's talk about #{name}"
+puts "He's #{height} inches tall"
+puts "He's #{weight} pounds"
 puts "Actually thats not too heavy"
-puts "He's got #{my_hair} hair and #{my_eyes} eyes"
-puts "His teeth are unusually #{my_teeth} depending on the coffee"
+puts "He's got #{hair} hair and #{eyes} eyes"
+puts "His teeth are unusually #{teeth} depending on the coffee"
 
 #this line is tricky, get it right fool
-puts "if i add #{my_age}, #{my_height} and #{my_weight} I get #{my_age + my_height + my_weight}."
+puts "if i add #{age}, #{height} and #{weight} I get #{age + height + weight}."
