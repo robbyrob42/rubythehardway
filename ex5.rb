@@ -15,3 +15,4 @@ puts "His teeth are unusually #{teeth} depending on the coffee"
 
 #this line is tricky, get it right fool
 puts "if i add #{age}, #{height} and #{weight} I get #{age + height + weight}."
+puts "I am #{weight} lbs which equals #{(weight/2.2)} kg"
