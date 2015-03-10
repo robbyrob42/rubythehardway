@@ -6,6 +6,6 @@ print "the third is #{third}\n"
 
 
 print "give me another number:"
-another = gets.chomp
+another = $stdin.gets.chomp
 number = another.to_f
 
